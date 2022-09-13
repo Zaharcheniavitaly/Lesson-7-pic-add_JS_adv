@@ -3,7 +3,7 @@
 		"express": "^4.18.1",
 		"nodemon": "^2.0.19"
 	},
-	"name": "dom_zadanie-7_pic",
+	"name": "lesson-7-pic-add_js_adv",
 	"version": "1.0.0",
 	"main": "index.js",
 	"devDependencies": {},
@@ -12,13 +12,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Zaharcheniavitaly/Lesson-7_JS_adv-.git"
+		"url": "git+https://github.com/Zaharcheniavitaly/Lesson-7-pic-add_JS_adv.git"
 	},
-	"author": "",
+	"author": "Vitaly",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/Zaharcheniavitaly/Lesson-7_JS_adv-/issues"
+		"url": "https://github.com/Zaharcheniavitaly/Lesson-7-pic-add_JS_adv/issues"
 	},
-	"homepage": "https://github.com/Zaharcheniavitaly/Lesson-7_JS_adv-#readme",
+	"homepage": "https://github.com/Zaharcheniavitaly/Lesson-7-pic-add_JS_adv#readme",
 	"description": ""
 }
