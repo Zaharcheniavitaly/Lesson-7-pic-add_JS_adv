@@ -31,6 +31,9 @@ Vue.component('cart-item', {
 	`
 });
 
+//"$emit('remove', cartItem)"
+
+
 Vue.component('button-comp', {
 	props: ['showCart'],
 	template:
